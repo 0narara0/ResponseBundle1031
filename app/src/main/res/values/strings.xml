@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResponseBundle1031</string>
+    <string name="firstactivity">First Activity</string>
+    <string name="secondactivity">Second Activity</string>
+    <string name="thirdactivity">Third Activity</string>
+    <string name="firstbutton">FIRST BUTTON</string>
+    <string name="secondbutton">SECOND BUTTON</string>
+</resources>
